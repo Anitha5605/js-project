@@ -1,0 +1,2 @@
+# js-project
+virtual assistence
